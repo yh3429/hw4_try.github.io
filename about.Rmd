@@ -1,0 +1,21 @@
+---
+title: "index"
+author: "yh3429"
+date: "2022-10-31"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### This is the first time to try P8105 hw4.
+
+
+
+Here's some text. I like the internet. I use [google](https://www.google.com/) all the time to do data science.
+
+<img src="image/orlando.jpg" style="longth：80%"> 
+
+This's another page_about.
+
