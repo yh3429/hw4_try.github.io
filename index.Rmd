@@ -5,9 +5,6 @@ date: "2022-10-31"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 #### This is the first time to try P8105 hw4.
 
@@ -18,5 +15,5 @@ Here's some text. I like the internet. I use [google](https://www.google.com/) a
 
 <img src="image/wechat.jpg" style="longth：80%"> 
 
-Here's another page.
-Use [about](about.html).
+Here's another page.[about](about.html)
+
