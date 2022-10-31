@@ -8,8 +8,7 @@ output: html_document
 
 #### This is the first time to try P8105 hw4.
 
-
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+<img src="image/qq.jpg" style="longth：80%"> 
 
 Here's some text. I like the internet. I use [google](https://www.google.com/) all the time to do data science.
 
